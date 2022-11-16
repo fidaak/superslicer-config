@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+!LICENSE
+!README.md
+
+!filament/*.ini
+!physical_printer/*.ini
+!print/*.ini
+!printer/*.ini
+
+
+!*/
